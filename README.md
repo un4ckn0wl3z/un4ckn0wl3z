@@ -1,3 +1,3 @@
 <p align="center">
-![](https://steamuserimages-a.akamaihd.net/ugc/954101135156565426/21D9841F8E03ED30D91A7720388E1E8D3A464FC0/)
+  <img src="https://media1.giphy.com/media/1RkDDoIVs3ntm/giphy.gif?cid=ecf05e47e036303e4e7137dee39c666be57e2d2a5f91b137&rid=giphy.gif" />
 </p>
