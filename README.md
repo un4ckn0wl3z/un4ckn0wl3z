@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/UqxVRm1IaaIGk/giphy.gif" />
+  <img src="https://haxtivitiez.files.wordpress.com/2016/12/tumblr_static_nyan_cat_animation_new.gif?w=788" />
 </p>
