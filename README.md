@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=un4ckn0wl3z" alt="un4ckn0wl3z" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/haxtivitiez" target="blank"><img src="https://img.shields.io/twitter/follow/haxtivitiez?logo=twitter&style=for-the-badge" alt="haxtivitiez" /></a> </p>
 
 - 🔭 I’m currently working on [unknownclub](https://github.com/unknownclub)
 
@@ -26,9 +26,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/un4ckn0wl3z" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="un4ckn0wl3z" height="30" width="40" /></a>
+<a href="https://twitter.com/haxtivitiez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="haxtivitiez" height="30" width="40" /></a>
 <a href="https://fb.com/un4ckn0wl3z" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="un4ckn0wl3z" height="30" width="40" /></a>
 <a href="https://instagram.com/un4ckn0wl3z" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="un4ckn0wl3z" height="30" width="40" /></a>
-<a href="https://medium.com/un4ckn0wl3z" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="un4ckn0wl3z" height="30" width="40" /></a>
+<a href="https://medium.com/@un4ckn0wl3z" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@un4ckn0wl3z" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
