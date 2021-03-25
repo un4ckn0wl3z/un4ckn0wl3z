@@ -12,7 +12,8 @@ string[] un4ckn0wl3z = new string[] {
   "Code : Javascript Java C# Python C++", 
   "Tools : VS, Docker, Github", 
   "Architecture : Win10, Linux", 
-  "Interest : Software Development, IT Security, Reverse Engineer, Psychedelic drugs, Backyard garden"
+  "Interest : Software Development, IT Security, Reverse Engineer, 
+              Psychedelic drugs, Backyard garden"
 };
 ```
 
