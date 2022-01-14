@@ -18,3 +18,5 @@ string[] un4ckn0wl3z = new string[] {
 ```
 
 ---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=un4ckn0wl3z)](https://github.com/anuraghazra/github-readme-stats)
