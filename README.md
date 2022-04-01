@@ -16,6 +16,6 @@ string[] un4ckn0wl3z = new string[] {
   "Hobbies : Psychedelic drugs extractor, Magic mushroom & Cannabis growing"
 };
 ```
-
+### Hire me, Read my CV -> https://un4ckn0wl3z.github.io/devportfolio/#
 ---
 
