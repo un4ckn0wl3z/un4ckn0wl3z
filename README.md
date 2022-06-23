@@ -21,6 +21,9 @@ string[] un4ckn0wl3z = new string[] {
 
 ```
 Project FoodChain (C2, Botbet, RAT) : https://www.youtube.com/watch?v=43oqT2RRvOU
+FUD Chrome cookie stealer : https://www.youtube.com/watch?v=fwR7RWyJPJQ
+PointBlank MoMzGames license patcher : https://www.youtube.com/watch?v=4wwEld2qRuE
+
 And much more private security tools
 ```
 
