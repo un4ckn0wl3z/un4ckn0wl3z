@@ -24,6 +24,7 @@ Project FoodChain (C2, Botnet, RAT) : https://www.youtube.com/watch?v=43oqT2RRvO
 FUD Chrome cookie stealer : https://www.youtube.com/watch?v=fwR7RWyJPJQ
 PointBlank MoMzGames license patcher : https://www.youtube.com/watch?v=4wwEld2qRuE
 FUD private Crypter : https://www.youtube.com/watch?v=WMhjvl57cH0
+Noob Layer 7 Stresser : https://www.youtube.com/watch?v=aifo1TaPRnE
 
 And much more private security tools
 ```
