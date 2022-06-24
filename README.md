@@ -25,6 +25,7 @@ FUD Chrome cookie stealer : https://www.youtube.com/watch?v=fwR7RWyJPJQ
 PointBlank MoMzGames license patcher : https://www.youtube.com/watch?v=4wwEld2qRuE
 FUD private Crypter : https://www.youtube.com/watch?v=WMhjvl57cH0
 Noob Layer 7 Stresser : https://www.youtube.com/watch?v=aifo1TaPRnE
+Noob Layer 4 Spoofer : https://www.youtube.com/watch?v=azGOYJXu4mU
 
 And much more private security tools
 ```
