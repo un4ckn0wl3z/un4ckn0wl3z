@@ -23,7 +23,8 @@ string[] un4ckn0wl3z = new string[] {
 Project FoodChain (C2, Botnet, RAT) : https://www.youtube.com/watch?v=43oqT2RRvOU
 FUD Chrome cookie stealer : https://www.youtube.com/watch?v=fwR7RWyJPJQ
 PointBlank MoMzGames license patcher : https://www.youtube.com/watch?v=4wwEld2qRuE
-FUD private Crypter : https://www.youtube.com/watch?v=WMhjvl57cH0
+FUD private proxy Crypter : https://www.youtube.com/watch?v=WMhjvl57cH0
+FUD private native Crypter : https://www.youtube.com/watch?v=IyNWpq6jefI
 Noob Layer 7 Stresser : https://www.youtube.com/watch?v=aifo1TaPRnE
 Noob Layer 4 Spoofer : https://www.youtube.com/watch?v=azGOYJXu4mU
 
