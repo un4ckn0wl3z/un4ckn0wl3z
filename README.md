@@ -27,6 +27,7 @@ private FUD proxy Crypter : https://www.youtube.com/watch?v=WMhjvl57cH0
 private FUD native Crypter : https://www.youtube.com/watch?v=IyNWpq6jefI
 Noob Layer 7 Stresser : https://www.youtube.com/watch?v=aifo1TaPRnE
 Noob Layer 4 Spoofer : https://www.youtube.com/watch?v=azGOYJXu4mU
+Free SMS Spoofer : https://xbotapp.herokuapp.com/sms.php
 
 And much more private security tools
 ```
