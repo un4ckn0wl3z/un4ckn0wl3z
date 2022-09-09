@@ -9,7 +9,7 @@
 
 ```csharp
 string[] un4ckn0wl3z = new string[] { 
-  "Code : Javascript Java C# Python C++ Go", 
+  "Code : JS/TS Java C# Python C++ Go Dart", 
   "Tools : VS, Docker, Github", 
   "Architecture : Win10, Linux", 
   "Interest : Software Development, IT Security, DevOps, Reverse Engineer",
