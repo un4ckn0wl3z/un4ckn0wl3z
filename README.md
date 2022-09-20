@@ -4,9 +4,9 @@
 ```csharp
 string[] un4ckn0wl3z = new string[] { 
   "Code : JS/TS Java C# Python C++ Go Dart", 
-  "Tools : VS, Docker, Github", 
+  "Tools : VS, VSCode, Docker, x64dbg, Github, VMWare", 
   "Architecture : Win10, Linux", 
-  "Interest : Software Development, IT Security, DevOps, Reverse Engineer",
+  "Interest : Software Development, IT Security, DevOps, Reverse Engineer, Offensive coding",
   "Hobbies : Psychedelic drugs extractor, Magic mushroom & Cannabis growing"
 };
 ```
