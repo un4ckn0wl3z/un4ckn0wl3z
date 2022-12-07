@@ -7,7 +7,8 @@ string[] un4ckn0wl3z = new string[] {
   "Tools : VS, VSCode, Docker, x64dbg, Github, VMWare", 
   "Architecture : Win10, Linux", 
   "Interest : Software Development, IT Security, DevOps, Reverse Engineer, Offensive tools development",
-  "Hobbies : Play Chess & Checkers"
+  "Hobbies : Play Chess & Checkers",
+  "Quote": "If you only do what you can do, you will never be more than you are now! - Kung Fu Panda" 
 };
 ```
 
