@@ -29,3 +29,5 @@ And much more private offensive tools
 
 
 <p> <img src="https://c.tenor.com/9Hiuq_uczMcAAAAi/counting-money-trouble.gif" width="50"> Wanna hire me? visit here for my CV -> <a href="https://un4ckn0wl3z.github.io/devportfolio/" target="_blank">click</a> </p>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21pvv6it3ui4vpjxoocobq5uq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
