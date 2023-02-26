@@ -28,6 +28,6 @@ And much more private offensive tools
 ```
 
 
-<p> <img src="https://c.tenor.com/9Hiuq_uczMcAAAAi/counting-money-trouble.gif" width="50"> Wanna hire me? visit here for my CV -> <a href="https://un4ckn0wl3z.github.io/devportfolio/" target="_blank">click</a> </p>
+<p> <img src="https://c.tenor.com/9Hiuq_uczMcAAAAi/counting-money-trouble.gif" width="50"> Wanna hire me? visit here for my CV -> <a href="https://un4ckn0wl3z.github.io/devportfolio/" target="_blank">click</a> </p> <hr/>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21pvv6it3ui4vpjxoocobq5uq&cover_image=false&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
