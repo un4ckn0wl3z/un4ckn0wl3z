@@ -23,7 +23,7 @@ private FUD native Crypter : https://www.youtube.com/watch?v=IyNWpq6jefI
 Noob Layer 7 Stresser : https://www.youtube.com/watch?v=aifo1TaPRnE
 Noob Layer 4 Spoofer : https://www.youtube.com/watch?v=azGOYJXu4mU
 Free SMS Spoofer : (Maintenance)
-Free public torrent tracker : Maintenance)
+Free public torrent tracker : (Maintenance)
 
 And much more private offensive tools
 ```
