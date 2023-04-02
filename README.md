@@ -15,22 +15,19 @@ string[] un4ckn0wl3z = new string[] {
 ```
 
 ### <img src="https://media2.giphy.com/media/3oKIPnAiaMCws8nOsE/200.gif" width="50"> Projects...
-
-```
-Project FoodChain (C2, Botnet, RAT) : https://www.youtube.com/watch?v=43oqT2RRvOU
-FUD Chrome cookie stealer : https://www.youtube.com/watch?v=fwR7RWyJPJQ
-PointBlank MoMzGames license patcher : https://www.youtube.com/watch?v=4wwEld2qRuE
-private FUD proxy Crypter : https://www.youtube.com/watch?v=WMhjvl57cH0
-private FUD native Crypter : https://www.youtube.com/watch?v=IyNWpq6jefI
-Noob Layer 7 Stresser : https://www.youtube.com/watch?v=aifo1TaPRnE
-Noob Layer 4 Spoofer : https://www.youtube.com/watch?v=azGOYJXu4mU
-Free SMS Spoofer : (Under Maintenance)
-Free public torrent tracker : (Under Maintenance)
-Private movies streaming service : (Unknownclub's member only)
+Project FoodChain (C2, Botnet, RAT) : https://www.youtube.com/watch?v=43oqT2RRvOU <br>
+FUD Chrome cookie stealer : https://www.youtube.com/watch?v=fwR7RWyJPJQ <br>
+PointBlank MoMzGames license patcher : https://www.youtube.com/watch?v=4wwEld2qRuE <br>
+private FUD proxy Crypter : https://www.youtube.com/watch?v=WMhjvl57cH0 <br>
+private FUD native Crypter : https://www.youtube.com/watch?v=IyNWpq6jefI <br>
+Noob Layer 7 Stresser : https://www.youtube.com/watch?v=aifo1TaPRnE <br>
+Noob Layer 4 Spoofer : https://www.youtube.com/watch?v=azGOYJXu4mU <br>
+Free SMS Spoofer : (Under Maintenance) <br>
+Free public torrent tracker : (Under Maintenance) <br>
+Private movies streaming service : (Unknownclub's member only) <br><br>
 
 
-And much more private offensive tools
-```
+And much more private offensive tools<br>
 
 
 <p> <img src="https://c.tenor.com/9Hiuq_uczMcAAAAi/counting-money-trouble.gif" width="50"> Wanna hire me? visit here for my CV -> <a href="https://un4ckn0wl3z.github.io/devportfolio/" target="_blank">click</a> </p> <hr/>
