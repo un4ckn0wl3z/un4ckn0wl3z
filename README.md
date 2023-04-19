@@ -5,7 +5,7 @@
 
 ```csharp
 string[] un4ckn0wl3z = new string[] { 
-  "Code : JS/TS Java C# Python C++ Go Dart Rust(still learning), Pyside(still learning)", 
+  "Code : JS/TS Java C# Python C++ Go Dart Rust(still learning), Qt(Pyside6)", 
   "Tools : VS, VSCode, Docker, x64dbg, Github, VMWare", 
   "Architecture : Win10, Linux", 
   "Interest : Software Development, IT Security, DevOps, Reverse Engineer, Offensive tools development",
