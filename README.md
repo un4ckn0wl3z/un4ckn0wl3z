@@ -15,7 +15,7 @@ string[] un4ckn0wl3z = new string[] {
 ```
 
 ### <img src="https://media2.giphy.com/media/3oKIPnAiaMCws8nOsE/200.gif" width="50"> Projects...
-Pattaya RAT (<b>under development</b>) : https://youtu.be/pAFcGOScsN0 <br>
+Pattaya RAT (<b>Under development</b>) : https://youtu.be/pAFcGOScsN0 <br>
 Project FoodChain (C2, Botnet, RAT) : https://www.youtube.com/watch?v=43oqT2RRvOU <br>
 FUD Chrome cookie stealer : https://www.youtube.com/watch?v=fwR7RWyJPJQ <br>
 PointBlank MoMzGames license patcher : https://www.youtube.com/watch?v=4wwEld2qRuE <br>
@@ -23,8 +23,8 @@ private FUD proxy Crypter : https://www.youtube.com/watch?v=WMhjvl57cH0 <br>
 private FUD native Crypter : https://www.youtube.com/watch?v=IyNWpq6jefI <br>
 Noob Layer 7 Stresser : https://www.youtube.com/watch?v=aifo1TaPRnE <br>
 Noob Layer 4 Spoofer : https://www.youtube.com/watch?v=azGOYJXu4mU <br>
-Free SMS Spoofer : (Under Maintenance) <br>
-Free public torrent tracker : (Under Maintenance) <br>
+Free SMS Spoofer : (<b>Under Maintenance</b>) <br>
+Free public torrent tracker : (<b>Under Maintenance</b>) <br>
 Private movies streaming service : (Unknownclub's member only but you can request to join. Contact me by using LINE: <b>@un4ckn0wl3z</b>) <br><br>
 
 
