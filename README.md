@@ -15,6 +15,7 @@ string[] un4ckn0wl3z = new string[] {
 ```
 
 ### <img src="https://media2.giphy.com/media/3oKIPnAiaMCws8nOsE/200.gif" width="50"> Projects...
+Pattaya RAT (<b>under development</b>) : https://youtu.be/pAFcGOScsN0 <br>
 Project FoodChain (C2, Botnet, RAT) : https://www.youtube.com/watch?v=43oqT2RRvOU <br>
 FUD Chrome cookie stealer : https://www.youtube.com/watch?v=fwR7RWyJPJQ <br>
 PointBlank MoMzGames license patcher : https://www.youtube.com/watch?v=4wwEld2qRuE <br>
