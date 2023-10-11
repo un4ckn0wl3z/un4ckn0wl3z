@@ -26,8 +26,9 @@ Noob Layer 4 Spoofer : https://www.youtube.com/watch?v=azGOYJXu4mU <br>
 Free SMS Spoofer : (<b>Under Maintenance</b>) <br>
 Free public torrent tracker : (<b>Under Maintenance</b>) <br>
 
-
 And much more private offensive tools<br>
+
+Feel free to join <b>[UNK's Discord Resources Indexer]</b>: https://discord.gg/8pUzDwcKtm
 
 
 <p> <img src="https://c.tenor.com/9Hiuq_uczMcAAAAi/counting-money-trouble.gif" width="50"> Wanna hire me? visit here for my CV -> <a href="https://un4ckn0wl3z.github.io/devportfolio/" target="_blank">click</a> </p> <hr/>
