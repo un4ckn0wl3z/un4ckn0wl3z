@@ -10,7 +10,7 @@ string[] un4ckn0wl3z = new string[] {
   "Architecture : Win10, Linux", 
   "Interest : Software Development, User/Kernel Mode cheat development, IT Security, DevOps, Reverse Engineer, Offensive tools development",
   "Hobbies : Play Chess, Checkers, Movies ripper",
-  "Quote": "If you only do what you can do, you will never be more than you are now! - Kung Fu Panda | If at first you do succeed, try something harder. | Gather ye rosebuds while ye may. " 
+  "Quote": "If you only do what you can do, you will never be more than you are now! - Kung Fu Panda | If at first you do succeed, try something harder. | Gather ye rosebuds while ye may. Tempus fugit" 
 };
 ```
 
