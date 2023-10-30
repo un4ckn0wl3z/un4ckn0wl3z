@@ -23,7 +23,7 @@ private FUD proxy Crypter : https://www.youtube.com/watch?v=WMhjvl57cH0 <br>
 private FUD native Crypter : https://www.youtube.com/watch?v=IyNWpq6jefI <br>
 Noob Layer 7 Stresser : https://www.youtube.com/watch?v=aifo1TaPRnE <br>
 Noob Layer 4 Spoofer : https://www.youtube.com/watch?v=azGOYJXu4mU <br>
-<a href="https://github.com/un4ckn0wl3z/AssaultCubeTrainerQT" target="_blank">Simple QT based/C++ Game Trainer</a>: https://youtu.be/gLlDuhzgrBA <br>
+<a href="https://github.com/un4ckn0wl3z/AssaultCubeTrainerQT" target="_blank">Simple QT based/C++ Game Trainer (AssaultCube)</a>: https://youtu.be/gLlDuhzgrBA <br>
 Free SMS Spoofer : (<b>Under Maintenance</b>) <br>
 Free public torrent tracker : (<b>Under Maintenance</b>) <br>
 
