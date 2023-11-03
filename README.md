@@ -21,7 +21,7 @@ FUD Chrome cookie stealer : https://www.youtube.com/watch?v=fwR7RWyJPJQ <br>
 <a href="https://github.com/un4ckn0wl3z/still-run-pb" target="_blank">PointBlank MoMzGames license patcher</a> : https://www.youtube.com/watch?v=4wwEld2qRuE <br>
 private FUD proxy Crypter : https://www.youtube.com/watch?v=WMhjvl57cH0 <br>
 private FUD native Crypter : https://www.youtube.com/watch?v=IyNWpq6jefI <br>
-<a href="https://github.com/un4ckn0wl3z/CSO2-Launcher-fixed" target="_blank">Crack fixed for Private CSO2 Launcher for extended features<br>
+<a href="https://github.com/un4ckn0wl3z/CSO2-Launcher-fixed" target="_blank">Crack fixed Private CSO2 Launcher for extended features<br>
 Noob Layer 7 Stresser : https://www.youtube.com/watch?v=aifo1TaPRnE <br>
 Noob Layer 4 Spoofer : https://www.youtube.com/watch?v=azGOYJXu4mU <br>
 <a href="https://github.com/un4ckn0wl3z/AssaultCubeTrainerQT" target="_blank">Simple QT based/C++ Game Trainer (AssaultCube)</a>: https://youtu.be/gLlDuhzgrBA <br>
