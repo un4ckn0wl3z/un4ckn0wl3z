@@ -18,6 +18,7 @@ string[] un4ckn0wl3z = new string[] {
 <a href="https://github.com/Pattaya-Project" target="_blank">Pattaya RAT</a> | Custom C2: https://youtu.be/Ht4GMrWczVo <br>
 Project FoodChain (C2, Botnet, RAT) : https://www.youtube.com/watch?v=43oqT2RRvOU <br>
 CS2 External Cheats : https://www.youtube.com/playlist?list=PLHJN3wnSUAtmOylCII26_bKa7-FiCKvcW <br>
+Custom Cheat Engine Kernel Driver : https://youtu.be/xGPGfl3-ofQ <br>
 [Protection Modder] - Kernel-Mode tool for modification process protection : https://www.youtube.com/watch?v=ZxGrrc1tbV0 <br>
 [Process Unlinker] - Kernel-Mode tool for hiding Windows process : https://www.youtube.com/watch?v=B72OrC2VXuo <br>
 [Anti-Launch] - Kernel-Mode tool for prevent target process running on system : https://youtu.be/F1Grbz-1abk <br>
