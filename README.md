@@ -38,4 +38,3 @@ And much more private offensive tools<br>
 
 <p> <img src="https://c.tenor.com/9Hiuq_uczMcAAAAi/counting-money-trouble.gif" width="50"> Wanna hire me? visit here for my CV -> <a href="https://un4ckn0wl3z.github.io/devportfolio/" target="_blank">click</a> </p> <hr/>
 
-
