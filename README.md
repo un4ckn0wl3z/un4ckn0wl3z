@@ -22,8 +22,9 @@ Custom Cheat Engine Kernel Driver : https://youtu.be/xGPGfl3-ofQ <br>
 [Process Unlinker] - Kernel-Mode tool for hiding Windows process : https://www.youtube.com/watch?v=B72OrC2VXuo <br>
 [uProcessHide] - usermode process hider : https://youtu.be/KsJ2NnonY7Y <br>
 [Anti-Launch] - Kernel-Mode tool for prevent target process running on system : https://youtu.be/F1Grbz-1abk <br>
-FUD Chrome cookie stealer : https://www.youtube.com/watch?v=fwR7RWyJPJQ <br>
 <a href="https://github.com/un4ckn0wl3z/still-run-pb" target="_blank">PointBlank MoMzGames license patcher</a> : https://www.youtube.com/watch?v=4wwEld2qRuE <br>
+FUD Chrome cookie stealer : https://www.youtube.com/watch?v=fwR7RWyJPJQ <br>
+<a href="https://github.com/un4ckn0wl3z/classic_dll_injector_masm64" target="_blank">Classic CreateRemoteThread DLL Injector Rewrite in MASM64</a><br>
 private FUD proxy Crypter : https://www.youtube.com/watch?v=WMhjvl57cH0 <br>
 private FUD native Crypter : https://www.youtube.com/watch?v=IyNWpq6jefI <br>
 <a href="https://github.com/un4ckn0wl3z/CSO2-Launcher-fixed" target="_blank">Crack fixed Private CSO2 Launcher for extended features<br></a>
