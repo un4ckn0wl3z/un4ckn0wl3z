@@ -14,6 +14,8 @@ string[] un4ckn0wl3z = new string[] {
 ```
 
 ### <img src="https://media2.giphy.com/media/3oKIPnAiaMCws8nOsE/200.gif" width="50"> My hobby projects...(OSS and Private)
+
+<a href="https://github.com/un4ckn0wl3z/OPSEC" target="_blank">OPSEC Guide</a> : Best OPSEC Practice for Hackers!<br>
 <a href="https://github.com/Pattaya-Project" target="_blank">Pattaya RAT</a> | Custom C2: https://youtu.be/Ht4GMrWczVo <br>
 Project FoodChain (C2, Botnet, RAT) : https://www.youtube.com/watch?v=43oqT2RRvOU <br>
 CS2 External Cheats : https://www.youtube.com/playlist?list=PLHJN3wnSUAtmOylCII26_bKa7-FiCKvcW <br>
