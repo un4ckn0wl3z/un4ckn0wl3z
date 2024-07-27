@@ -40,7 +40,7 @@ Noob Layer 4 Spoofer : https://www.youtube.com/watch?v=azGOYJXu4mU <br>
 <a href="https://github.com/un4ckn0wl3z/Labubot" target="_blank">Labubot - Popmart Automate Script </a><br>
 <a href="https://github.com/un4ckn0wl3z/vmm-api-based.git" target="_blank">vmm-api-based - MemProcFS VMM API boilerplate for DMA development</a><br>
 <a href="https://github.com/un4ckn0wl3z/DMAInvoker.git" target="_blank">DMAInvoker - Tool use for probe DMA device by interacting with real process memory</a><br>
-<a href="https://github.com/un4ckn0wl3z/thin-notepad.git" target="_blank">Thin Notpad - Example Notepad cloned application using Qt (PySide6)</a><br>
+<a href="https://github.com/un4ckn0wl3z/thin-notepad.git" target="_blank">Thin Notepad - Example Notepad cloned application using Qt (PySide6)</a><br>
 
 
 <a href="https://github.com/un4ckn0wl3z/ProcessMonitorEx.git" target="_blank">ProcessMonitorEx - KernelMode Process Monitor</a> : https://www.youtube.com/watch?v=9wdySFx4Bfc <br>
