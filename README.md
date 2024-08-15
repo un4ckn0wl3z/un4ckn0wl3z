@@ -7,7 +7,7 @@ string[] un4ckn0wl3z = new string[] {
   "Code : JS/TS(Express/Nest.js), Java(SpringBoot), C#, Python, C++(Win32), IA32-Assembly, Go, Dart(Flutter), Rust(still learning), DearImGui(C++/GLFW), RayLib(C++), Qt(Pyside6), Qt(C++), ATL/WTL, Next.js ,Vue, TailwindCSS", 
   "Tools : VS, VSCode, Docker, x64dbg, Github, VMWare", 
   "Architecture : Win10, Linux", 
-  "Interest : Science, Psychedelic Substances, Software Development, User/Kernel Mode cheat development, UEFI, DMA Cheat, IT Security, DevOps, Reverse Engineer, Offensive tools development, Digital Circuit and Design, Embedded System (FPGA/Microcontroller)",
+  "Interest : Science, Psychedelic Substances, Software Development, User/Kernel Mode cheat development, UEFI, DMA Cheat, IT Security, DevOps, Reverse Engineer, Offensive tools development, Digital Circuit and Design, Embedded System (FPGA/Microcontroller), Software-Defined Radio (SDR)",
   "Hobbies : Play Chess, Checkers, Movies ripper",
   "Quote": "Stay kiddie stay wannabe | If you only do what you can do, you will never be more than you are now! - Kung Fu Panda | If at first you do succeed, try something harder. | Gather ye rosebuds while ye may. Tempus fugit" 
 };
