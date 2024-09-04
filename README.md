@@ -13,9 +13,15 @@ string[] un4ckn0wl3z = new string[] {
           Verilog HDL (Design and Verification)", 
   "Tools : VS, VSCode, Docker, x64dbg, Github, VMWare", 
   "Architecture : Win10, Linux", 
-  "Interest : Science, Psychedelic Substances, Software Development, User/Kernel Mode cheat development, UEFI, DMA Cheat, IT Security, DevOps, Reverse Engineer, Offensive tools development, Electronics, Analog Circuit/Digital Circuit and Design, Embedded System (FPGA/Microcontroller), Software-Defined Radio (SDR)",
+  "Interest : Science, Psychedelic Substances,
+              Software Development, User/Kernel Mode cheat development,
+              UEFI, DMA Cheat, IT Security, DevOps, Reverse Engineer,
+              Offensive tools development, Electronics,
+              Analog Circuit/Digital Circuit and Design,
+              Embedded System (FPGA/Microcontroller),
+              Software-Defined Radio (SDR)",
   "Hobbies : Play Chess, Checkers, Movies ripper",
-  "Quote": "Stay kiddie stay wannabe | If you only do what you can do, you will never be more than you are now! - Kung Fu Panda | If at first you do succeed, try something harder. | Gather ye rosebuds while ye may. Tempus fugit" 
+  "Quote": "If you only do what you can do, you will never be more than you are now! - Kung Fu Panda" 
 };
 ```
 ### <img src="https://media2.giphy.com/media/3oKIPnAiaMCws8nOsE/200.gif" width="50"> My hobby projects...(OSS and Private)
