@@ -5,7 +5,11 @@
 
 ```csharp
 string[] un4ckn0wl3z = new string[] { 
-  "Code : JS/TS(Express/Nest.js), Java(SpringBoot), C#, Python, C++(Win32), IA32-Assembly, Go, Dart(Flutter), Rust(still learning), DearImGui(C++/GLFW), RayLib(C++), Qt(Pyside6), Qt(C++), ATL/WTL, Next.js ,Vue, TailwindCSS, Arduino C++,
+  "Code : JS/TS(Express/Nest.js), Java(SpringBoot),
+          C#, Python, C++(Win32), IA32-Assembly, Go,
+          Dart(Flutter), Rust(still learning), DearImGui(C++/GLFW),
+          RayLib(C++), Qt(Pyside6), Qt(C++), ATL/WTL, Next.js ,
+          Vue, TailwindCSS, Arduino C++,
           Verilog HDL (Design and Verification)", 
   "Tools : VS, VSCode, Docker, x64dbg, Github, VMWare", 
   "Architecture : Win10, Linux", 
