@@ -59,6 +59,10 @@ Noob Layer 4 Spoofer : https://www.youtube.com/watch?v=azGOYJXu4mU <br>
 <a href="https://github.com/un4ckn0wl3z/ia32OSDev.git" target="_blank">ia32OSDev - Simple OS </a> : https://youtu.be/YVaZPix21jQ<br>
 
 <a href="https://github.com/un4ckn0wl3z/PCIE-Detector.git" target="_blank">PCIE-Detector - Sample/PoC Windows kernel driver for detect DMA devices by using Vendor ID and Device ID signatures</a> : https://youtu.be/DGPBm780Uag<br>
+<a href="https://github.com/un4ckn0wl3z/ALU.git" target="_blank">ALU: Example digital ALU using Verilog<br>
+
+
+
 
 Free public torrent tracker : (<b>Under Maintenance</b>) <br>
 <a href="https://github.com/micro-sms-spoofer" target="_blank">MicroSMS Spoofer</a> | Free SMS Spoofer : (<b>Under Maintenance</b>) <br>
