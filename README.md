@@ -60,7 +60,7 @@ Noob Layer 4 Spoofer : https://www.youtube.com/watch?v=azGOYJXu4mU <br>
 <a href="https://github.com/un4ckn0wl3z/PCIE-Detector.git" target="_blank">PCIE-Detector - Sample/PoC Windows kernel driver for detect DMA devices by using Vendor ID and Device ID signatures</a> : https://youtu.be/DGPBm780Uag<br>
 <a href="https://github.com/un4ckn0wl3z/ALU.git" target="_blank">ALU: Example digital ALU using Verilog<br>
 <a href="https://github.com/un4ckn0wl3z/verilog-traffic-light-control-mealy-fsm.git" target="_blank">FPGA Traffic Light Control (Mealy FSM)<br>
-<a href="https://github.com/un4ckn0wl3z/Arduino_Sketchs.git" target="_blank">My useful Arduino Sketchs<br>
+<a href="https://github.com/un4ckn0wl3z/Arduino_Sketchs.git" target="_blank">My useful Arduino Sketches<br>
 
 
 
