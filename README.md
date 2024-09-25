@@ -61,9 +61,7 @@ Noob Layer 4 Spoofer : https://www.youtube.com/watch?v=azGOYJXu4mU <br>
 <a href="https://github.com/un4ckn0wl3z/ALU.git" target="_blank">ALU: Example digital ALU using Verilog<br>
 <a href="https://github.com/un4ckn0wl3z/verilog-traffic-light-control-mealy-fsm.git" target="_blank">FPGA Traffic Light Control (Mealy FSM)<br>
 <a href="https://github.com/un4ckn0wl3z/Arduino_Sketchs.git" target="_blank">My useful Arduino Sketches<br>
-
-
-
+<a href="https://github.com/un4ckn0wl3z/Cyclone-IV-FPGA-2-bit-adder-to-7-segment.git" target="_blank">Cyclone IV FPGA | 2 bit adder to 7 segment<br>
 
 Free public torrent tracker : (<b>Under Maintenance</b>) <br>
 <a href="https://github.com/micro-sms-spoofer" target="_blank">MicroSMS Spoofer</a> | Free SMS Spoofer : (<b>Under Maintenance</b>) <br>
