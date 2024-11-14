@@ -24,7 +24,6 @@ string[] un4ckn0wl3z = new string[] {
   "Quote": "If you only do what you can do, you will never be more than you are now! - Kung Fu Panda" 
 };
 ```
-
 ### <img src="https://media2.giphy.com/media/3oKIPnAiaMCws8nOsE/200.gif" width="50"> My hobby projects...(OSS and Private)
 
 <a href="https://github.com/un4ckn0wl3z/OPSEC" target="_blank">OPSEC Guide</a> : Best OPSEC Practice for Hackers!<br>
