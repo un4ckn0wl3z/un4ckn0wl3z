@@ -10,7 +10,7 @@ string[] un4ckn0wl3z = new string[] {
           RayLib(C++), Qt(Pyside6), Qt(C++), ATL/WTL, Next.js ,
           Vue, TailwindCSS, Arduino C++,
           Verilog HDL (Design and Verification)", 
-  "Tools : VS, VSCode, Docker, x64dbg, IDA, Github, VMWare", 
+  "Tools : VS, VSCode, Docker, x64dbg, IDA, CE, Github, VMWare", 
   "Architecture : Win10, Linux", 
   "Interest : Science, Psychedelic Substances,
               Software Development, User/Kernel Mode cheat development,
