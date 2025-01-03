@@ -14,7 +14,7 @@ string[] un4ckn0wl3z = new string[] {
   "Architecture : Win10, Linux", 
   "Interest : Science, Psychedelic Substances,
               Software Development, User/Kernel Mode cheat development,
-              UEFI, DMA Cheat, IT Security, DevOps, Reverse Engineer,
+              UEFI, Hypervisor development (blue-pill), DMA Cheat, IT Security, DevOps, Reverse Engineer,
               Offensive tools development, Electronics,
               Analog Circuit/Digital Circuit and Design,
               Embedded System (FPGA/Microcontroller),
