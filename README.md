@@ -1,7 +1,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=un4ckn0wl3z)](https://git.io/streak-stats)
 
 
-### <img src="https://media3.giphy.com/media/CjmvTCZf2U3p09Cn0h/source.gif" width="50"> A little more about me...  
+### <img src="https://media3.giphy.com/media/VbnUQpnihPSIgIXuZv/200.gif" width="50"> A little more about me...  
 
 ```csharp
 string[] un4ckn0wl3z = new string[] { 
