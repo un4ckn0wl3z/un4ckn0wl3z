@@ -56,6 +56,7 @@ Noob Layer 4 Spoofer : https://www.youtube.com/watch?v=azGOYJXu4mU <br>
 <a href="https://github.com/un4ckn0wl3z/DMAInvoker.git" target="_blank">DMAInvoker - Tool use for probe DMA device by interacting with real process memory</a><br>
 <a href="https://github.com/un4ckn0wl3z/TeleScan2coeGui.git" target="_blank">TeleScan2coeGui - DMA firmware creation utility for converting the .tlscan file to a .coe file</a><br>
 
+<a href="https://github.com/un4ckn0wl3z/DMACheatEngineLoader.git" target="_blank">DMACheatEngineLoader: Enabling DMA support for Cheat Engine</a>: https://youtu.be/iiqf3pV-H38 <br>
 
 <a href="https://github.com/un4ckn0wl3z/thin-notepad.git" target="_blank">Thin Notepad - Example Notepad cloned application using Qt (PySide6)</a><br>
 
