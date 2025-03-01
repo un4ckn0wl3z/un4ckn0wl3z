@@ -20,6 +20,7 @@ string[] un4ckn0wl3z = new string[] {
               Analog Circuit/Digital Circuit and Design,
               Embedded System (FPGA/Microcontroller),
               Software-Defined Radio (SDR)",
+  "Not interested : Politic, Religion, Social media",
   "Hobbies : Play Chess, Checkers, Movies ripper",
   "Quote": "If you only do what you can do, you will never be more than you are now! - Kung Fu Panda" 
 };
