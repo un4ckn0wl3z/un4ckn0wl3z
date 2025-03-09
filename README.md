@@ -31,6 +31,7 @@ string[] un4ckn0wl3z = new string[] {
 <a href="https://github.com/un4ckn0wl3z/CellRAT" target="_blank">Cell RAT</a> | Private Oldschool C# RAT style (TCP Based): https://youtu.be/kv9rhE_dErw <br>
 Project FoodChain (RESTful based C2/Infostealer) : https://www.youtube.com/watch?v=43oqT2RRvOU <br>
 CS2 External Cheats : https://www.youtube.com/playlist?list=PLHJN3wnSUAtmOylCII26_bKa7-FiCKvcW <br>
+YOLOv11 AI Aimbot : https://youtu.be/JKWqLiwB0Lk <br>
 <a href="https://github.com/un4ckn0wl3z/HerculesAC.git" target="_blank">HerculesAC (An experimental anti-cheat system for reversing and programming research.)</a>: https://www.youtube.com/playlist?list=PLHJN3wnSUAtk3aiAo9nyRf0ohcI8O6yRc <br>
 Custom Cheat Engine Kernel Driver : https://youtu.be/xGPGfl3-ofQ <br>
 <a href="https://github.com/un4ckn0wl3z/SimpleHypervisor.git" target="_blank">[SimpleHypervisor] Intel VT-x Hypervisor</a> : https://youtu.be/PfZ-Tbojc4A <br>
