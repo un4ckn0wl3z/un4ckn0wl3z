@@ -74,5 +74,9 @@ Noob Layer 4 Spoofer : https://www.youtube.com/watch?v=azGOYJXu4mU <br>
 <a href="https://github.com/un4ckn0wl3z/Cyclone-IV-FPGA-2-bit-adder-to-7-segment.git" target="_blank">Cyclone IV FPGA | 2 bit adder to 7 segment<br>
 <a href="https://github.com/un4ckn0wl3z/Verilog-Labs.git" target="_blank">My useful Verilog HDL Code<br>
 
+
+<a href="https://github.com/un4ckn0wl3z/mcp-scarper-engine.git" target="_blank">MCP Scraper Engine - Basic MCP Server for Web Scraping<br>
+
+
 Free public torrent tracker : (<b>Under Maintenance</b>) <br>
 <a href="https://github.com/micro-sms-spoofer" target="_blank">MicroSMS Spoofer</a> | Free SMS Spoofer : (<b>Under Maintenance</b>) <br>
