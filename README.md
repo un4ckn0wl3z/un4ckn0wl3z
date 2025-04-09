@@ -15,7 +15,7 @@ string[] un4ckn0wl3z = new string[] {
   "Interest : Science, Psychedelic Substances,
               Software Development, User/Kernel Mode cheat development,
               UEFI, Hypervisor development (Blue-Pill), DMA Cheat, IT Security, DevOps, Reverse Engineer,
-              Offensive tools development, Electronics,
+              Offensive tools development, Electronics, ML/AI,
               Analog Circuit/Digital Circuit and Design,
               Embedded System (FPGA/Microcontroller),
               Software-Defined Radio (SDR)",
