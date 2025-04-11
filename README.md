@@ -25,7 +25,7 @@ string[] un4ckn0wl3z = new string[] {
 ```
 ### <img src="https://media2.giphy.com/media/3oKIPnAiaMCws8nOsE/200.gif" width="50"> My hobby projects...(OSS and Private)
 
-Guide: [How to Be an Expert Hacker](https://slash.patttayaaaaaaaaaaaaaaaaaaaaaa.com/s/how-to-be-an-expert-hacker) <br>
+### [I Tell You How to Be an Expert Hacker: Click here!](https://patttayaaaaaaaaaaaaaaaaaaaaaa.com) <br>
 
 <a href="https://github.com/un4ckn0wl3z/OPSEC" target="_blank">OPSEC Guide</a> : Best OPSEC Practice for Hackers!<br>
 <a href="https://github.com/Pattaya-Project" target="_blank">Pattaya RAT</a> | Custom Websocket based C&C Server: https://youtu.be/Ht4GMrWczVo <br>
