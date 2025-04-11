@@ -1,6 +1,5 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=un4ckn0wl3z)](https://git.io/streak-stats)
 
-## *** [Check out my tutorial: How to Be an Expert Hacker!](https://patttayaaaaaaaaaaaaaaaaaaaaaa.com) <br>
 
 ### <img src="https://media3.giphy.com/media/VbnUQpnihPSIgIXuZv/200.gif" width="50"> A little more about me...  
 ```csharp
