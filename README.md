@@ -5,7 +5,7 @@
 string[] un4ckn0wl3z = new string[] { 
   "Code : JS/TS(Express/Nest.js), Java(SpringBoot),
           C#, Python, C++(Win32/Driver), IA32-Assembly, Go,
-          Dart(Flutter), Rust(still learning), DearImGui(C++/GLFW),
+          Dart(Flutter), Rust(Actix/egui/Slint), DearImGui(C++/GLFW),
           RayLib(C++), Qt(Pyside6), Qt(C++), ATL/WTL, MFC, Next.js ,
           Vue, TailwindCSS, Arduino C++,
           Verilog HDL (Design and Verification)", 
