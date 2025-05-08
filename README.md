@@ -79,7 +79,7 @@ Noob Layer 4 Spoofer : https://www.youtube.com/watch?v=azGOYJXu4mU <br>
 <a href="https://github.com/un4ckn0wl3z/MemMCP.git" target="_blank">MemMCP - Cheat Engine-like but MCP<br>
 <a href="https://github.com/un4ckn0wl3z/remote-dll-injector-zig.git" target="_blank">remote-dll-injector-zig - Zig DLL Injector<br>
 <a href="https://github.com/un4ckn0wl3z/pvz-trainer-rs.git" target="_blank">pvz-trainer-rs - Sample +4 Trainer for Plants vs Zombies, developed in Rust<br>
-
+<a href="https://github.com/un4ckn0wl3z/pvz-trainer-slint.git" target="_blank">pvz-trainer-slint - Same trainer as above but rewrite gui using Slint<br>
 
 
 Free public torrent tracker : (<b>Under Maintenance</b>) <br>
