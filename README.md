@@ -58,31 +58,24 @@ Noob Layer 4 Spoofer : https://www.youtube.com/watch?v=azGOYJXu4mU <br>
 <a href="https://github.com/un4ckn0wl3z/vmm-api-based.git" target="_blank">vmm-api-based - MemProcFS VMM API boilerplate for DMA development</a><br>
 <a href="https://github.com/un4ckn0wl3z/DMAInvoker.git" target="_blank">DMAInvoker - Tool use for probe DMA device by interacting with real process memory</a><br>
 <a href="https://github.com/un4ckn0wl3z/TeleScan2coeGui.git" target="_blank">TeleScan2coeGui - DMA firmware creation utility for converting the .tlscan file to a .coe file</a><br>
-
 <a href="https://github.com/un4ckn0wl3z/DMACheatEngineLoader.git" target="_blank">DMACheatEngineLoader: Enabling DMA support for Cheat Engine</a>: https://youtu.be/iiqf3pV-H38 <br>
-
 <a href="https://github.com/un4ckn0wl3z/thin-notepad.git" target="_blank">Thin Notepad - Example Notepad cloned application using Qt (PySide6)</a><br>
-
 <a href="https://github.com/un4ckn0wl3z/ProcessMonitorEx.git" target="_blank">ProcessMonitorEx - KernelMode Process Monitor</a> : https://www.youtube.com/watch?v=9wdySFx4Bfc <br>
 <a href="https://github.com/un4ckn0wl3z/Pinball3D-DMA-Cheat.git" target="_blank">Pinball3D-DMA-Cheat - Example DMA Cheat for Pinball3D x64</a> : https://youtu.be/FMB-9BFjAhk <br>
 <a href="https://github.com/un4ckn0wl3z/ia32OSDev.git" target="_blank">ia32OSDev - Simple OS </a> : https://youtu.be/YVaZPix21jQ<br>
 <a href="https://github.com/un4ckn0wl3z/WinIpc.git" target="_blank">WinIpc - Various way to implement interprocess-communication on Windows </a><br>
 <a href="https://github.com/un4ckn0wl3z/WinsockImpl.git" target="_blank">WinsockImpl - Example Windows Sockets 2 implementation </a><br>
-
 <a href="https://github.com/un4ckn0wl3z/PCIE-Detector.git" target="_blank">PCIE-Detector - Sample/PoC Windows kernel driver for detect DMA devices by using Vendor ID and Device ID signatures</a> : https://youtu.be/DGPBm780Uag<br>
 <a href="https://github.com/un4ckn0wl3z/ALU.git" target="_blank">ALU: Example digital ALU using Verilog<br>
 <a href="https://github.com/un4ckn0wl3z/verilog-traffic-light-control-mealy-fsm.git" target="_blank">FPGA Traffic Light Control (Mealy FSM)<br>
 <a href="https://github.com/un4ckn0wl3z/Arduino_Sketchs.git" target="_blank">My useful Arduino Sketches<br>
 <a href="https://github.com/un4ckn0wl3z/Cyclone-IV-FPGA-2-bit-adder-to-7-segment.git" target="_blank">Cyclone IV FPGA | 2 bit adder to 7 segment<br>
 <a href="https://github.com/un4ckn0wl3z/Verilog-Labs.git" target="_blank">My useful Verilog HDL Code<br>
-
-
 <a href="https://github.com/un4ckn0wl3z/MemMCP.git" target="_blank">MemMCP - Cheat Engine-like but MCP<br>
 <a href="https://github.com/un4ckn0wl3z/remote-dll-injector-zig.git" target="_blank">remote-dll-injector-zig - Zig DLL Injector<br>
 <a href="https://github.com/un4ckn0wl3z/pvz-trainer-rs.git" target="_blank">pvz-trainer-rs - Sample +4 Trainer for Plants vs Zombies, developed in Rust<br>
 <a href="https://github.com/un4ckn0wl3z/pvz-trainer-slint.git" target="_blank">pvz-trainer-slint - Same trainer as above but rewrite gui using Slint<br>
 <a href="https://github.com/un4ckn0wl3z/title-randomizer-rs.git" target="_blank">title-randomizer-rs - Windows Title Randomizer<br>
-
 
 
 Free public torrent tracker : (<b>Under Maintenance</b>) <br>
