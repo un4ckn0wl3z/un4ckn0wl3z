@@ -19,7 +19,7 @@ string[] un4ckn0wl3z = new string[] {
               Analog Circuit/Digital Circuit and Design,
               Embedded System (FPGA/Microcontroller),
               Software-Defined Radio (SDR)",
-  "Hardware: Arduino, ESP32, RPi, Tang FPGA",
+  "Hardware: Arduino, ESP8266, ESP32, RPi, Tang FPGA",
   "RTOS: FreeRTOS, ESP-IDF",
   "Not interested : Politic, Religion, Social media",
   "Hobbies : Play Chess, Checkers, Movies ripper",
