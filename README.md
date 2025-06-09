@@ -30,6 +30,8 @@ string[] un4ckn0wl3z = new string[] {
 
 ### <img src="https://media2.giphy.com/media/3oKIPnAiaMCws8nOsE/200.gif" width="50"> My hobby projects...(OSS and Private)
 
+## Software
+
 <a href="https://youtu.be/UVjtFZAcLVY" target="_blank">How to Become an Expert Hacker in 3 Minutes! <br>
 <a href="https://github.com/un4ckn0wl3z/OPSEC" target="_blank">OPSEC Guide</a> : Best OPSEC Practice for Hackers!<br>
 <a href="https://github.com/Pattaya-Project" target="_blank">Pattaya RAT</a> | Custom Websocket based C&C Server: https://youtu.be/Ht4GMrWczVo <br>
@@ -83,3 +85,6 @@ Noob Layer 4 Spoofer : https://www.youtube.com/watch?v=azGOYJXu4mU <br>
 
 Free public torrent tracker : (<b>Under Maintenance</b>) <br>
 <a href="https://github.com/micro-sms-spoofer" target="_blank">MicroSMS Spoofer</a> | Free SMS Spoofer : (<b>Under Maintenance</b>) <br>
+
+## Hardware
+<a href="https://github.com/un4ckn0wl3z/title-randomizer-rs.git" target="_blank"> WiFi Frauder - ESP32 WiFi Troller PCB + Firmware<br>
