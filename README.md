@@ -17,7 +17,7 @@ string[] un4ckn0wl3z = new string[] {
               Software Development, User/Kernel Mode cheat development,
               UEFI, Hypervisor development (Blue-Pill), DMA Cheat, IT Security, DevOps, Reverse Engineer,
               Offensive tools development, Electronics, ML/AI,
-              Analog Circuit/Digital Circuit and Design,
+              Analog Circuit/Digital Circuit and Design, PCB Design,
               Embedded System (FPGA/Microcontroller),
               Software-Defined Radio (SDR)",
   "Hardware: Arduino, ESP8266, ESP32, RPi, Tang FPGA",
