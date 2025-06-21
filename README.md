@@ -20,7 +20,7 @@ string[] un4ckn0wl3z = new string[] {
               Embedded System (FPGA/Microcontroller),
               Software-Defined Radio (SDR)",
   "Hardware: Arduino, ESP8266, ESP32, RPi, Tang FPGA",
-  "Firmware Stack: FreeRTOS, ESP-IDF, MicroPython",
+  "Firmware Stack: Arduino, FreeRTOS, ESP-IDF, MicroPython",
   "Not interested : Politic, Religion, Social media",
   "Hobbies : Play Chess, Checkers, Movies ripper",
   "Quote": "If you only do what you can do, you will never be more than you are now! - Kung Fu Panda" 
