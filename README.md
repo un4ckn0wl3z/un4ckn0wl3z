@@ -2,8 +2,6 @@
 
 <p align="center">https://un4ckn0wl3z.dev</p>
 
-
-
 ### <img src="https://media3.giphy.com/media/VbnUQpnihPSIgIXuZv/200.gif" width="50"> A little more about me...  
 ```csharp
 string[] un4ckn0wl3z = new string[] { 
