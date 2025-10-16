@@ -2,6 +2,12 @@
 
 <p align="center">https://un4ckn0wl3z.dev</p>
 
+<p align="center">
+  <a href="https://discord.c99.nl/widget/theme-2/1404346863464747019.png">
+  <img src="https://discord.c99.nl/widget/theme-2/1404346863464747019.png" alt="Discord" />
+</a>
+
+</p>
 
 ### <img src="https://media3.giphy.com/media/VbnUQpnihPSIgIXuZv/200.gif" width="50"> A little more about me...  
 ```csharp
