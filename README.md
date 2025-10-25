@@ -24,7 +24,7 @@ string[] un4ckn0wl3z = new string[] {
               UEFI, Hypervisor development (Blue-Pill), DMA Cheat, IT Security, DevOps, Reverse Code Engineer,
               Binary analysis, Offensive tools development, Electronics, ML/AI,
               Analog Circuit/Digital Circuit and Design, PCB Design,
-              Embedded System (FPGA/Microcontroller),
+              Embedded System (FPGA/Microcontroller), Game Development,
               Software-Defined Radio (SDR)",
   "Hardware: Arduino, ESP8266, ESP32, RPi, Tang FPGA",
   "Firmware Stack: Arduino, FreeRTOS, ESP-IDF, MicroPython",
