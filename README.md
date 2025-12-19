@@ -96,6 +96,7 @@ Free public torrent tracker : (<b>Under Maintenance</b>) <br>
 
 ## Games
 <a href="https://github.com/un4ckn0wl3z/2dgameengine.git" target="_blank">2D C++ Game Engine (ECS Architecture)<br>
+<a href="https://github.com/un4ckn0wl3z/2dphysics-engine.git" target="_blank">2dphysics-engine (Experimental physics engine for 2D space)<br>
 
 ## Hardware
 <a href="https://github.com/un4ckn0wl3z/WiFi_Frauder_DEV.git" target="_blank"> WiFi Frauder - ESP32 WiFi Troller PCB + Firmware<br>
