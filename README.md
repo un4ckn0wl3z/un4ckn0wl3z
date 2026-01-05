@@ -3,8 +3,8 @@
 <p align="center">https://un4ckn0wl3z.dev</p>
 
 <p align="center">
-  <a href="https://discord.c99.nl/widget/theme-1/1404346863464747019.png">
-  <img src="https://discord.c99.nl/widget/theme-1/1404346863464747019.png" alt="Discord" />
+  <a href="https://discord.c99.nl/widget/theme-1/513528192297074699.png">
+  <img src="https://discord.c99.nl/widget/theme-1/513528192297074699.png" alt="Discord" />
 </a>
 </p>
 
