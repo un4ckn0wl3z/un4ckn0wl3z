@@ -97,6 +97,7 @@ Noob Layer 4 Spoofer : https://www.youtube.com/watch?v=azGOYJXu4mU <br>
 <a href="https://github.com/un4ckn0wl3z/MiragePanda.git" target="_blank">MiragePanda - Dangerous Prankware<br>
 <a href="https://github.com/un4ckn0wl3z/unkinjector.git" target="_blank">unkinjector - A dll injector<br>
 <a href="https://github.com/un4ckn0wl3z/securetunnel.git" target="_blank">securetunnel - A cross-platform SSH tunnel manager with a GUI, built in Rust.<br>
+<a href="https://github.com/un4ckn0wl3z/WhisperNetC2.git" target="_blank">WhisperNetC2 - A modular Command and Control framework<br>
 
 Free public torrent tracker : (<b>Under Maintenance</b>) <br>
 <a href="https://github.com/micro-sms-spoofer" target="_blank">MicroSMS Spoofer</a> | Free SMS Spoofer : (<b>Under Maintenance</b>) <br>
