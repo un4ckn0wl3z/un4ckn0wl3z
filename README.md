@@ -102,6 +102,8 @@ Noob Layer 4 Spoofer : https://www.youtube.com/watch?v=azGOYJXu4mU <br>
 <a href="https://github.com/un4ckn0wl3z/dissect-pe.git" target="_blank">dissect-pe - A Windows PE file analyzer<br>
 <a href="https://github.com/un4ckn0wl3z/iced-injector.git" target="_blank">iced-injector - Classic DLL Injector written in Rust + Iced UI<br>
 <a href="https://github.com/un4ckn0wl3z/dioprocess.git" target="_blank">DioProcess - A modern, lightweight Windows system monitor<br>
+<a href="https://github.com/un4ckn0wl3z/dioips.git" target="_blank">DioIPS - Intrusion Prevention System<br>
+<a href="https://github.com/un4ckn0wl3z/damned-memtrace.git" target="_blank">Damned Memory Traversal Tool<br>
 
 
 
