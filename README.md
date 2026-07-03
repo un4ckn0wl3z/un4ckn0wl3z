@@ -38,6 +38,8 @@ string[] un4ckn0wl3z = new string[] {
 
 ## Software
 
+<a href="https://github.com/un4ckn0wl3z/dioprocess-private" target="_blank">DioProcess — Advanced Windows Internals, Evasion, Rootkit, Hypervisor, SMM & Bootkit Research Framework<br>
+
 <a href="https://youtu.be/UVjtFZAcLVY" target="_blank">How to Become an Expert Hacker in 3 Minutes! <br>
 <a href="https://github.com/un4ckn0wl3z/OPSEC" target="_blank">OPSEC Guide</a> : Best OPSEC Practice for Hackers!<br>
 <a href="https://github.com/Pattaya-Project" target="_blank">Pattaya RAT</a> | Custom Websocket based C&C Server: https://youtu.be/Ht4GMrWczVo <br>
@@ -101,7 +103,6 @@ Noob Layer 4 Spoofer : https://www.youtube.com/watch?v=azGOYJXu4mU <br>
 <a href="https://github.com/un4ckn0wl3z/injector-slint.git" target="_blank">injector-slint - Classic DLL Injector written in Rust + Slint UI<br>
 <a href="https://github.com/un4ckn0wl3z/dissect-pe.git" target="_blank">dissect-pe - A Windows PE file analyzer<br>
 <a href="https://github.com/un4ckn0wl3z/iced-injector.git" target="_blank">iced-injector - Classic DLL Injector written in Rust + Iced UI<br>
-<a href="https://github.com/un4ckn0wl3z/dioprocess.git" target="_blank">DioProcess - A modern, lightweight Windows system monitor<br>
 <a href="https://github.com/un4ckn0wl3z/dioips.git" target="_blank">DioIPS - Intrusion Prevention System<br>
 <a href="https://github.com/un4ckn0wl3z/damned-memtrace.git" target="_blank">Damned Memory Traversal Tool<br>
 
