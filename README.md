@@ -1,3 +1,5 @@
+# I don't enjoy coding anymore. This Git account will remain as a record of my history in the computer scene. Goodbye.
+
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
 <p align="center">https://un4ckn0wl3z.dev</p>
