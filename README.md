@@ -1,4 +1,4 @@
-# I don't enjoy coding anymore. AI makes us more productive, but it also takes away the challenge. I'll leave this Git account here as a record of who I was in the computer scene. Goodbye.
+<!-- I don't enjoy coding anymore. AI makes us more productive, but it also takes away the challenge. I'll leave this Git account here as a record of who I was in the computer scene. Goodbye. -->
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
 <p align="center">https://un4ckn0wl3z.dev</p>
