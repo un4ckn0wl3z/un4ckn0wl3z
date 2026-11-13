@@ -113,6 +113,23 @@ Noob Layer 4 Spoofer : https://www.youtube.com/watch?v=azGOYJXu4mU <br>
 Free public torrent tracker : (<b>Under Maintenance</b>) <br>
 <a href="https://github.com/micro-sms-spoofer" target="_blank">MicroSMS Spoofer</a> | Free SMS Spoofer : (<b>Under Maintenance</b>) <br>
 
+## Guitar Tools
+Free, open-source tools for guitarists that run on your own machine. All of them on one page: <a href="https://un4ckn0wl3z.github.io/unknown-guitar-toolkits/" target="_blank">Unknown Guitar Toolkits</a><br>
+<a href="https://github.com/un4ckn0wl3z/TabLens" target="_blank">TabLens</a> - Turns guitar tab images (scans, screenshots, text tab) into Guitar Pro 5 files : <a href="https://un4ckn0wl3z.github.io/TabLens/" target="_blank">open app</a><br>
+<a href="https://github.com/un4ckn0wl3z/staff-lens" target="_blank">StaffLens</a> - Turns sheet music (MusicXML, Guitar Pro, photos and PDFs) into guitar tab with every symbol explained : <a href="https://un4ckn0wl3z.github.io/staff-lens/" target="_blank">open app</a><br>
+<a href="https://github.com/un4ckn0wl3z/riff-forge" target="_blank">Riff Forge</a> - Builds drums and bass from a Guitar Pro riff; exports MIDI and WAV : <a href="https://un4ckn0wl3z.github.io/riff-forge/" target="_blank">open app</a><br>
+<a href="https://github.com/un4ckn0wl3z/tempo-bench" target="_blank">Tempo Bench</a> - Detailed metronome plus song practice with GP / MIDI / audio files and click-track export : <a href="https://un4ckn0wl3z.github.io/tempo-bench/" target="_blank">open app</a><br>
+<a href="https://github.com/un4ckn0wl3z/solo-smith" target="_blank">Solo Smith</a> - Generates playable guitar solos in the key of your backing track : <a href="https://un4ckn0wl3z.github.io/solo-smith/" target="_blank">open app</a><br>
+<a href="https://github.com/un4ckn0wl3z/guitar-stem-studio" target="_blank">Guitar Stem Studio</a> - Splits a real song into 6 stems so you can mute the guitar and play along (Windows / macOS app)<br>
+
+## Recomp (Static Recompilation)
+Old PC games translated from x86 machine code to portable C, with the Windows/DirectX layer replaced by SDL2, so they run natively and in the browser (WebAssembly). No game code or data in the repos: bring your own copy.<br>
+<a href="https://github.com/un4ckn0wl3z/house-of-the-dead-recomp-web" target="_blank">The House of the Dead (PC, 1998)</a> - Static recompilation to C, SDL2 and WebAssembly with online 2-player co-op<br>
+<a href="https://github.com/un4ckn0wl3z/lotd-webport" target="_blank">Land of the Dead: Road to Fiddler's Green (2005)</a> - Unreal Engine 2 game and its 15 DLLs recompiled to C (~1.3M instructions), WebGL 2 renderer, online play between browsers<br>
+<a href="https://github.com/un4ckn0wl3z/uplink-webport" target="_blank">Uplink 1.6</a> - Static recompilation of uplink.exe to C, native SDL2 and WebAssembly, with a Thai translation<br>
+<a href="https://github.com/un4ckn0wl3z/recomp-lab" target="_blank">Recomp Lab</a> - Learn static recompilation from scratch (in Thai): a toy console, its ROM, disassembler, recompiler and byte-by-byte check against an emulator<br>
+<a href="https://github.com/un4ckn0wl3z/ida_h_recomp" target="_blank">ida_h_recomp</a> - Example use of IDA.h (the types and macros of IDA-style decompiled / recompiled code)<br>
+
 ## Games & Computer Graphics
 <a href="https://github.com/un4ckn0wl3z/2dgameengine.git" target="_blank">2D C++ Game Engine (ECS Architecture)<br>
 <a href="https://github.com/un4ckn0wl3z/2dphysics-engine.git" target="_blank">2dphysics-engine (Experimental physics engine for 2D space)<br>
